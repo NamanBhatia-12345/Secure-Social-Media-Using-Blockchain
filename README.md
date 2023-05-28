@@ -17,6 +17,6 @@ npm install
 
 npm start
 
-#The react application will run on the local server i.e. localhost:3000 or http://localhost:3000
+#The application will run on the local server i.e. localhost:3000 or http://localhost:3000
 
 
