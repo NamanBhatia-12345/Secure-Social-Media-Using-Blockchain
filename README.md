@@ -6,6 +6,10 @@ To set up the repository and run it locally, run the below commands on command p
 
 
 git clone https://github.com/NamanBhatia-12345/Secure-Social-Media-Using-Blockchain.git
+
+
+
+
 cd Secure-Social-Media-Using-Blockchain
 npm install
 npm start
