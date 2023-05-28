@@ -1,6 +1,6 @@
 # Secure Social Media Content using Blockchain 
 
-#Install the metamask extension 
+#Install the metamask extension and add some ethers in Georli TestNet
 
 To set up the repository and run it locally, run the below commands on command prompt
 
